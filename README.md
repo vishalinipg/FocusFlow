@@ -60,8 +60,8 @@ A visually premium, App Store–quality iOS productivity app for students and pr
 ## 📸 Screenshots
 
 | Home Dashboard (Dark) | Focus Timer (Dark) | Home Dashboard (Light) |
-|---|---|---|
-| *(Add screenshot here)* | *(Add screenshot here)* | *(Add screenshot here)* |
+|:---:|:---:|:---:|
+| ![Home Dark](screenshots/FocusFlow-Home-Dark.png) | ![Focus Dark](screenshots/FocusFlow-Focus-Dark.png) | ![Home Light](screenshots/FocusFlow-Home-Light.png) |
 
 ---
 
